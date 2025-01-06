@@ -1,0 +1,10 @@
+build:
+  info: "1.0-qa"
+
+accounts:
+  message: "Welcome to accounts microservice application QA"
+  contactDetails:
+    name: "Mr. QA"
+    email: "qa@gmail.com"
+  onCallSupport:
+    - (555) 111-1111

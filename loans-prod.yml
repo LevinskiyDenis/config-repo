@@ -1,0 +1,10 @@
+build:
+  info: "1.0"
+
+loans:
+  message: "Welcome to loans microservice application PROD"
+  contactDetails:
+    name: "Denis Levinskiy Loans PROD"
+    email: "levinskiy.d@gmail.com - PROD"
+  onCallSupport:
+    - (555) 555-0000 (prod)

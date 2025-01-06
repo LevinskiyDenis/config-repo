@@ -1,0 +1,11 @@
+build:
+  info: "1.0"
+
+loans:
+  message: "Welcome to loans microservice application"
+  contactDetails:
+    name: "Denis Levinskiy Loans default"
+    email: "levinskiy.d@gmail.com - loans default"
+  onCallSupport:
+    - (555) 555-0000
+    - (555) 555-1111

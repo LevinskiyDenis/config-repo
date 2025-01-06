@@ -1,0 +1,11 @@
+build:
+  version: "1.0-qa"
+
+cards:
+  message: "Welcome to cards microservice application - QA"
+  contactDetails:
+    name: "Denis Levinskiy QA Cards"
+
+
+
+

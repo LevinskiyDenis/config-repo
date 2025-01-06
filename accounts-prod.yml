@@ -1,0 +1,8 @@
+build:
+  info: "1.0-prod"
+
+accounts:
+  message: "Welcome to accounts microservice application PROD"
+  contactDetails:
+    name: "Mr. PROD"
+    email: "prod@gmail.com"

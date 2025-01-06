@@ -1,0 +1,14 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards microservice application"
+  contactDetails:
+    name: "Denis Levinskiy Cards"
+    email: "levinskiy.d@gmail.com"
+  onCallSupport:
+    - (900) 555-1234
+    - (900) 555-2345
+
+
+

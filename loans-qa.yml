@@ -1,0 +1,10 @@
+build:
+  info: "1.0"
+
+loans:
+  message: "Welcome to loans microservice application QA"
+  contactDetails:
+    name: "Denis Levinskiy Loans QA"
+    email: "levinskiy.d@gmail.com - QA"
+  onCallSupport:
+    - (555) 555-0000 (qa)
