@@ -4,5 +4,5 @@ build:
 accounts:
   message: "Welcome to accounts microservice application PROD"
   contactDetails:
-    name: "Mr. PROD"
+    name: "{cipher}dd4b093d39b4be811a8d12acb5073137f64d1022112af42466feeb45cd4d926212636ef1d7603c6215614de53f4c5600"
     email: "prod@gmail.com"

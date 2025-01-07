@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to loans microservice application PROD"
   contactDetails:
-    name: "Denis Levinskiy Loans PROD"
+    name: "{cipher}3cc9852e40dfcacde5340c2b3fd828a909c3170077b4c4367f6fbaa99829b40b8c42e95e9b321922b641d08fdd2b36808d75daca16237d80aaeb40c769dce336"
     email: "levinskiy.d@gmail.com - PROD"
   onCallSupport:
     - (555) 555-0000 (prod)
