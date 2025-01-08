@@ -3,6 +3,7 @@ build:
 
 loans:
   message: "Welcome to loans microservice application"
+  messageTwo: "Message two from loans default"
   contactDetails:
     name: "Denis Levinskiy Loans default"
     email: "levinskiy.d@gmail.com - loans default"
