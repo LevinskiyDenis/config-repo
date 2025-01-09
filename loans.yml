@@ -2,7 +2,7 @@ build:
   info: "1.0"
 
 loans:
-  message: "Welcome to loans microservice application - default dynamic update"
+  message: "Welcome to loans microservice application - default dynamic update 2"
   messageTwo: "Message two from loans default"
   contactDetails:
     name: "Denis Levinskiy Loans default"
