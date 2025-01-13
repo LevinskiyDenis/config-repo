@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to cards microservice application - default dynamic change 2"
+  message: "Welcome to cards microservice application - default dynamic change 3"
   contactDetails:
     name: "Denis Levinskiy Cards"
     email: "levinskiy.d@gmail.com"
