@@ -2,7 +2,7 @@ build:
     info: "1.0"
 
 accounts:
-  message: "Welcome to accounts microservice application - default dynamic change 3"
+  message: "Welcome to accounts microservice application - default dynamic change 44"
   messageTwo: "Message two from accounts default"
   contactDetails:
     name: "Denis Levinskiy"
