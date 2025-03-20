@@ -1,0 +1,12 @@
+eureka:
+  instance:
+    #   приложение зарегистрируется в eureka через айпишник, а не dns адрес,
+    #  потому что в локальной системе у нас нет dns хендлинга, чтобы мы юзали для приложения app.com/accounts i.e.
+    prefer-ip-address: true
+  client:
+    #   получать данные из eureka server о других микросервисах - да
+    fetch-registry: true
+    #   зарегистрировать самому приложению в eureka server - да
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8070/eureka
